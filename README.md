@@ -5,3 +5,5 @@ Undergraduate research paper exploring operational constraints of post-quantum c
 Author: Charbel Mattar
 Date: June 2026
 Status: Course research paper / conceptual framework
+
+DOI: https://doi.org/10.5281/zenodo.20677115
